@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/coadingNinja-Project/static/css/main.e6c13ad2.css",
+    "main.js": "/coadingNinja-Project/static/js/main.c9250405.js",
+    "static/media/img.jpg": "/coadingNinja-Project/static/media/img.9a928a4d33409578748e.jpg",
+    "index.html": "/coadingNinja-Project/index.html",
+    "main.e6c13ad2.css.map": "/coadingNinja-Project/static/css/main.e6c13ad2.css.map",
+    "main.c9250405.js.map": "/coadingNinja-Project/static/js/main.c9250405.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c9250405.js"
+  ]
+}
